@@ -1,4 +1,4 @@
-20350675744693501
+20352353383557259
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85994,6 +85994,13 @@ RKEF050
 0
 2
 2
+components
+SK6812EC20
+SK6812-EC20-3
+LED
+0
+4
+4
 components
 SOT-23-6-routable
 SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py

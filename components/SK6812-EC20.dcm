@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK6812-EC20
+D SMD,2x2x0.65mm Light Emitting Diodes (LED)
+K
+F https://datasheet.lcsc.com/lcsc/2110250930_OPSCO-Optoelectronics-SK6812-EC20_C2909058.pdf
+$ENDCMP
+#
+#End Doc Library
